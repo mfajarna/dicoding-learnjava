@@ -1,4 +1,4 @@
-package org.kojaydev.materi.tipedata;
+package org.kojaydev.materi.datatype;
 
 public class Primitive {
     // Byte = Nilai minimum dan maksimum dari tipe data ini adalah -128, dan 127
