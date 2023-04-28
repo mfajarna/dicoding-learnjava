@@ -11,8 +11,8 @@ public class ListArray {
         planets.add("Mars");
         planets.add("Merkurius");
 
-        for(int i=0; i <planets.size(); i++){
-            System.out.println(planets.get(i));
+        for(String planet: planets){
+            System.out.println(planet);
         }
     }
 }
